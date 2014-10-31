@@ -36,6 +36,8 @@
                                 <string>1.0.0</string>
                                 <key>kind</key>
                                 <string>software</string>
+                                <key>subtitle</key>
+                                <string>上海现代商友软件有限公司</string>
                                 <key>title</key>
                                 <string>企业管家</string>
                         </dict>

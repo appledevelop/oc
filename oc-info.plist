@@ -19,6 +19,7 @@
                                         <key>url</key>
                                         <string>http://210.13.68.34:13930/images/72-72.png</string>
                                 </dict>
+                                <dict>
                                         <key>kind</key>
                                         <string>full-size-image</string>
                                         <key>needs-shine</key>

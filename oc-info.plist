@@ -13,19 +13,6 @@
                                         <key>url</key>
                                         <string>http://210.13.68.34:13930/OC.ipa</string>
                                 </dict>
-                                <dict>
-                                        <key>kind</key>
-                                        <string>display-image</string>
-                                        <key>url</key>
-                                        <string>http://210.13.68.34:13930/images/72-72.png</string>
-                                </dict>
-                                        <key>kind</key>
-                                        <string>full-size-image</string>
-                                        <key>needs-shine</key>
-                                        <true/>
-                                        <key>url</key>
-                                        <string>http://210.13.68.34:13930/images/512.png</string>
-                                </dict>
                         </array>
                         <key>metadata</key>
                         <dict>
